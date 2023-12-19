@@ -12,5 +12,6 @@
   - Lemmy    : <https://discuss.online/u/thespaceguy>
   - Lichess   : <https://lichess.org/@/NayanTSG>
   - Chess.com   : <https://www.chess.com/member/nayanthespaceguy>
+  - Clash of Clans   : <https://link.clashofclans.com/en/?action=OpenPlayerProfile&tag=PRVUUYPCC>
   - Matrix   : <https://matrix.to/#/@thespaceguy:matrix.org>
   - Email   : nayantsg@protonmail.com
