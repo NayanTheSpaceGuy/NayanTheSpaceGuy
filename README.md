@@ -10,8 +10,12 @@
   - Mastodon   : <https://mstdn.party/@thespaceguy>
   - Bookwyrm   : <https://books.theunseen.city/user/thespaceguy>
   - Lemmy    : <https://discuss.online/u/thespaceguy>
+
+### Games
   - Lichess   : <https://lichess.org/@/NayanTSG>
   - Chess.com   : <https://www.chess.com/member/nayanthespaceguy>
   - Clash of Clans   : <https://link.clashofclans.com/en/?action=OpenPlayerProfile&tag=PRVUUYPCC>
+
+### Professional / Business Related
   - Matrix   : <https://matrix.to/#/@thespaceguy:matrix.org>
   - Email   : nayantsg@protonmail.com
