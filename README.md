@@ -12,6 +12,7 @@
   - Lemmy    : <https://discuss.online/u/thespaceguy>
 
 ### Games
+  - Steam   : <https://steamcommunity.com/id/nayanthespaceguy/>
   - Lichess   : <https://lichess.org/@/NayanTSG>
   - Chess.com   : <https://www.chess.com/member/nayanthespaceguy>
   - Clash of Clans   : <https://link.clashofclans.com/en/?action=OpenPlayerProfile&tag=PRVUUYPCC>
