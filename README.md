@@ -7,9 +7,9 @@
 </a></p>
 
 ## 📫 How to reach me:
-  - Mastodon   : <https://mstdn.party/@thespaceguy>
-  - Bookwyrm   : <https://books.theunseen.city/user/thespaceguy>
-  - Lemmy    : <https://discuss.online/u/thespaceguy>
+  - Mastodon (Micro Blogs)  : <https://mstdn.party/@thespaceguy>
+  - Bookwyrm (All about Books)  : <https://books.theunseen.city/user/thespaceguy>
+  - Lemmy (Memes)   : <https://discuss.online/u/thespaceguy>
 
 ### Games
   - Steam   : <https://steamcommunity.com/id/nayanthespaceguy/>
@@ -18,5 +18,5 @@
   - Clash of Clans   : <https://link.clashofclans.com/en/?action=OpenPlayerProfile&tag=PRVUUYPCC>
 
 ### Professional / Business Related
-  - Matrix   : <https://matrix.to/#/@thespaceguy:matrix.org>
+  - Matrix (Preferred)  : <https://matrix.to/#/@thespaceguy:matrix.org>
   - Email   : nayantsg@protonmail.com
