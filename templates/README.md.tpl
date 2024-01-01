@@ -31,7 +31,7 @@
   - Steam   : <https://steamcommunity.com/id/nayanthespaceguy/>
   - Lichess   : <https://lichess.org/@/NayanTSG>
   - Chess.com   : <https://www.chess.com/member/nayanthespaceguy>
-  - Clash of Clans   : <https://link.clashofclans.com/en/?action=OpenPlayerProfile&tag=PRVUUYPCC>
+  - Clash of Clans   : <https://link.clashofclans.com/en/?action%3DOpenPlayerProfile&tag%3DPRVUUYPCC>
 #### Professional / Business Related
   - Matrix (Preferred)  : <https://matrix.to/#/@thespaceguy:matrix.org>
   - Email   : nayantsg@protonmail.com
