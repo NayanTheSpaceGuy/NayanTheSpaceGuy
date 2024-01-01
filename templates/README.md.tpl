@@ -1,6 +1,6 @@
 # NayanTheSpaceGuy
 
-###**Hey, there!**
+### **Hey, there!**
 
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=NayanTheSpaceGuy&show_icons=true&theme=tokyonight" />
@@ -14,15 +14,11 @@
 {{range recentRepos 5}}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
-### 🔨 My recent Pull Requests
-{{range recentPullRequests 5}}
-- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}})
-{{- end}}
 ### ⭐ Recent Stars
 {{range recentStars 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}}
 {{- end}}
-### 📫 How to reach me
+### 📫 How to reach me :
 #### Social Media
   - Mastodon (Micro Blogs)  : <https://mstdn.party/@thespaceguy>
   - Bookwyrm (All about Books)  : <https://books.theunseen.city/user/thespaceguy>
