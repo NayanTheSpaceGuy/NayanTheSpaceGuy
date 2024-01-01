@@ -1,6 +1,6 @@
 # NayanTheSpaceGuy
 
-###**Hey, there!**
+### **Hey, there!**
 
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=NayanTheSpaceGuy&show_icons=true&theme=tokyonight" />
@@ -16,8 +16,6 @@
 - [NayanTheSpaceGuy/nayanthespaceguy.github.io](https://github.com/NayanTheSpaceGuy/nayanthespaceguy.github.io) - My personal website.
 - [NayanTheSpaceGuy/boilerplates](https://github.com/NayanTheSpaceGuy/boilerplates) - My personal templates collection.
 - [NayanTheSpaceGuy/dotfiles](https://github.com/NayanTheSpaceGuy/dotfiles) - My personal dotfiles and preferences.
-### 🔨 My recent Pull Requests
-
 ### ⭐ Recent Stars
 
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
@@ -25,7 +23,7 @@
 - [Alexays/Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada:
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [lichess-org/mobile](https://github.com/lichess-org/mobile) - Lichess mobile app v2
-### 📫 How to reach me
+### 📫 How to reach me :
 #### Social Media
   - Mastodon (Micro Blogs)  : <https://mstdn.party/@thespaceguy>
   - Bookwyrm (All about Books)  : <https://books.theunseen.city/user/thespaceguy>
