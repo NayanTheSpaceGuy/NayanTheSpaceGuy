@@ -18,11 +18,11 @@
 - [NayanTheSpaceGuy/dotfiles](https://github.com/NayanTheSpaceGuy/dotfiles) - My personal dotfiles and preferences.
 ### ⭐ Recent Stars
 
+- [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [withastro/docs](https://github.com/withastro/docs) - Astro documentation
 - [withastro/astro](https://github.com/withastro/astro) - The web framework that scales with you — Build fast content sites, powerful web applications, dynamic server APIs, and everything in-between ⭐️ Star to support our work!
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [the-wright-jamie/tab-nine](https://github.com/the-wright-jamie/tab-nine) - A modern, highly customisable New Tab page which helps you take back your New Tab experience
-- [joelshepherd/tabliss](https://github.com/joelshepherd/tabliss) - A beautiful, customisable New Tab page for Firefox, Chrome, and Edge.
 ### 📫 How to reach me :
 #### Social Media
   - Mastodon (Micro Blogs)  : <https://mstdn.party/@thespaceguy>
