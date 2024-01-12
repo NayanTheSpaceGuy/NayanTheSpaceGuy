@@ -18,11 +18,11 @@
 - [NayanTheSpaceGuy/dotfiles](https://github.com/NayanTheSpaceGuy/dotfiles) - My personal dotfiles and preferences.
 ### ⭐ Recent Stars
 
+- [minetest/minetest_docs](https://github.com/minetest/minetest_docs) - Minetest Engine documentation (Work in progress. Meanwhile, please refer to lua_api.txt and dev.minetest.net)
+- [minetest/contentdb](https://github.com/minetest/contentdb) - Content database for Minetest mods, games, and more
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [withastro/docs](https://github.com/withastro/docs) - Astro documentation
 - [withastro/astro](https://github.com/withastro/astro) - The web framework that scales with you — Build fast content sites, powerful web applications, dynamic server APIs, and everything in-between ⭐️ Star to support our work!
-- [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
-- [the-wright-jamie/tab-nine](https://github.com/the-wright-jamie/tab-nine) - A modern, highly customisable New Tab page which helps you take back your New Tab experience
 ### 📫 How to reach me :
 #### Social Media
   - Mastodon (Micro Blogs)  : <https://mstdn.party/@thespaceguy>
