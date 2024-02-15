@@ -22,11 +22,11 @@
 - [NayanTheSpaceGuy/dotfiles](https://github.com/NayanTheSpaceGuy/dotfiles) - My personal dotfiles and preferences.
 ### ⭐ Recent Stars
 
+- [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [ThePrimeagen/neovimrc](https://github.com/ThePrimeagen/neovimrc) - 
 - [Gameye98/Lazymux](https://github.com/Gameye98/Lazymux) - termux tool installer
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [NayanTheSpaceGuy/ricordein-website](https://github.com/NayanTheSpaceGuy/ricordein-website) - Official Ricordein website.
-- [NayanTheSpaceGuy/ricordein](https://github.com/NayanTheSpaceGuy/ricordein) - Ricordein - A minetest based game.
 ### 📫 How to reach me :
 #### Social Media
   - Mastodon (Micro Blogs)  : <https://mstdn.party/@thespaceguy>
