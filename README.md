@@ -8,8 +8,8 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [NayanTheSpaceGuy/dotfiles](https://github.com/NayanTheSpaceGuy/dotfiles) - My personal dotfiles and preferences.
 - [NayanTheSpaceGuy/test](https://github.com/NayanTheSpaceGuy/test) - 
+- [NayanTheSpaceGuy/dotfiles](https://github.com/NayanTheSpaceGuy/dotfiles) - My personal dotfiles and preferences.
 - [NayanTheSpaceGuy/ricordein](https://github.com/NayanTheSpaceGuy/ricordein) - Ricordein - A minetest based game.
 - [NayanTheSpaceGuy/ricordein-website](https://github.com/NayanTheSpaceGuy/ricordein-website) - Official Ricordein website.
 - [NayanTheSpaceGuy/nayanthespaceguy.github.io](https://github.com/NayanTheSpaceGuy/nayanthespaceguy.github.io) - My personal website.
