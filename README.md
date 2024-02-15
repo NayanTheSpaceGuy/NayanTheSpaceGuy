@@ -9,17 +9,17 @@
 ### 👷 Check out what I'm currently working on
 
 - [NayanTheSpaceGuy/ricordein](https://github.com/NayanTheSpaceGuy/ricordein) - Ricordein - A minetest based game.
-- [NayanTheSpaceGuy/test-again-i-know](https://github.com/NayanTheSpaceGuy/test-again-i-know) - 
 - [NayanTheSpaceGuy/dotfiles](https://github.com/NayanTheSpaceGuy/dotfiles) - My personal dotfiles and preferences.
 - [NayanTheSpaceGuy/ricordein-website](https://github.com/NayanTheSpaceGuy/ricordein-website) - Official Ricordein website.
 - [NayanTheSpaceGuy/nayanthespaceguy.github.io](https://github.com/NayanTheSpaceGuy/nayanthespaceguy.github.io) - My personal website.
+- [NayanTheSpaceGuy/boilerplates](https://github.com/NayanTheSpaceGuy/boilerplates) - My personal templates collection.
 ### 🌱 My latest projects
 
-- [NayanTheSpaceGuy/test-again-i-know](https://github.com/NayanTheSpaceGuy/test-again-i-know) - 
 - [NayanTheSpaceGuy/ricordein-website](https://github.com/NayanTheSpaceGuy/ricordein-website) - Official Ricordein website.
 - [NayanTheSpaceGuy/ricordein](https://github.com/NayanTheSpaceGuy/ricordein) - Ricordein - A minetest based game.
 - [NayanTheSpaceGuy/nayanthespaceguy.github.io](https://github.com/NayanTheSpaceGuy/nayanthespaceguy.github.io) - My personal website.
 - [NayanTheSpaceGuy/boilerplates](https://github.com/NayanTheSpaceGuy/boilerplates) - My personal templates collection.
+- [NayanTheSpaceGuy/dotfiles](https://github.com/NayanTheSpaceGuy/dotfiles) - My personal dotfiles and preferences.
 ### ⭐ Recent Stars
 
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
