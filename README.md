@@ -8,9 +8,9 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [NayanTheSpaceGuy/ricordein](https://github.com/NayanTheSpaceGuy/ricordein) - Ricordein - A minetest based game.
 - [NayanTheSpaceGuy/test-again-i-know](https://github.com/NayanTheSpaceGuy/test-again-i-know) - 
 - [NayanTheSpaceGuy/dotfiles](https://github.com/NayanTheSpaceGuy/dotfiles) - My personal dotfiles and preferences.
-- [NayanTheSpaceGuy/ricordein](https://github.com/NayanTheSpaceGuy/ricordein) - Ricordein - A minetest based game.
 - [NayanTheSpaceGuy/ricordein-website](https://github.com/NayanTheSpaceGuy/ricordein-website) - Official Ricordein website.
 - [NayanTheSpaceGuy/nayanthespaceguy.github.io](https://github.com/NayanTheSpaceGuy/nayanthespaceguy.github.io) - My personal website.
 ### 🌱 My latest projects
