@@ -22,11 +22,11 @@
 - [NayanTheSpaceGuy/boilerplates](https://github.com/NayanTheSpaceGuy/boilerplates) - My personal templates collection.
 ### ⭐ Recent Stars
 
-- [ThePrimeagen/harpoon](https://github.com/ThePrimeagen/harpoon) - 
-- [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
-- [ThePrimeagen/neovimrc](https://github.com/ThePrimeagen/neovimrc) - 
-- [Gameye98/Lazymux](https://github.com/Gameye98/Lazymux) - termux tool installer
-- [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
+- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
+- [lua/lua](https://github.com/lua/lua) - The Lua development repository, as seen by the Lua team. Mirrored irregularly. Please DO NOT send pull requests. Report issues in the Lua mailing list https://www.lua.org/lua-l.html
+- [golang/go](https://github.com/golang/go) - The Go programming language
+- [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
+- [facefusion/facefusion](https://github.com/facefusion/facefusion) - Next generation face swapper and enhancer
 ### 📫 How to reach me :
 #### Social Media
   - Mastodon (Micro Blogs)  : <https://mstdn.party/@thespaceguy>
