@@ -8,18 +8,18 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [NayanTheSpaceGuy/dotfiles](https://github.com/NayanTheSpaceGuy/dotfiles) - My personal dotfiles and preferences.
+- [NayanTheSpaceGuy/neovimrc](https://github.com/NayanTheSpaceGuy/neovimrc) - 
 - [NayanTheSpaceGuy/ricordein](https://github.com/NayanTheSpaceGuy/ricordein) - Ricordein - A minetest based game.
 - [NayanTheSpaceGuy/test](https://github.com/NayanTheSpaceGuy/test) - Test repo for understanding GitHub and GitHub Actions.
-- [NayanTheSpaceGuy/dotfiles](https://github.com/NayanTheSpaceGuy/dotfiles) - My personal dotfiles and preferences.
 - [NayanTheSpaceGuy/ricordein-website](https://github.com/NayanTheSpaceGuy/ricordein-website) - Official Ricordein website.
-- [NayanTheSpaceGuy/nayanthespaceguy.github.io](https://github.com/NayanTheSpaceGuy/nayanthespaceguy.github.io) - My personal website.
 ### 🌱 My latest projects
 
+- [NayanTheSpaceGuy/neovimrc](https://github.com/NayanTheSpaceGuy/neovimrc) - 
 - [NayanTheSpaceGuy/test](https://github.com/NayanTheSpaceGuy/test) - Test repo for understanding GitHub and GitHub Actions.
 - [NayanTheSpaceGuy/ricordein-website](https://github.com/NayanTheSpaceGuy/ricordein-website) - Official Ricordein website.
 - [NayanTheSpaceGuy/ricordein](https://github.com/NayanTheSpaceGuy/ricordein) - Ricordein - A minetest based game.
 - [NayanTheSpaceGuy/nayanthespaceguy.github.io](https://github.com/NayanTheSpaceGuy/nayanthespaceguy.github.io) - My personal website.
-- [NayanTheSpaceGuy/boilerplates](https://github.com/NayanTheSpaceGuy/boilerplates) - My personal templates collection.
 ### ⭐ Recent Stars
 
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
