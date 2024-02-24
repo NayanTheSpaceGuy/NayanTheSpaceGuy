@@ -22,11 +22,11 @@
 - [NayanTheSpaceGuy/nayanthespaceguy.github.io](https://github.com/NayanTheSpaceGuy/nayanthespaceguy.github.io) - NayanTheSpaceGuy&#39;s personal website.
 ### ⭐ Recent Stars
 
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative.
 - [joelshepherd/tabliss](https://github.com/joelshepherd/tabliss) - A beautiful, customisable New Tab page for Firefox, Chrome, and Edge.
 - [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time.
 - [NayanTheSpaceGuy/dotfiles-personal](https://github.com/NayanTheSpaceGuy/dotfiles-personal) - 
-- [NayanTheSpaceGuy/neovimrc](https://github.com/NayanTheSpaceGuy/neovimrc) - NayanTheSpaceGuy&#39;s neovim config.
-- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 ### 📫 How to reach me :
 #### Social Media
   - Mastodon (Micro Blogs)  : <https://mstdn.party/@thespaceguy>
