@@ -22,11 +22,11 @@
 - [NayanTheSpaceGuy/boilerplates](https://github.com/NayanTheSpaceGuy/boilerplates) - NayanTheSpaceGuy&#39;s personal templates collection.
 ### ⭐ Recent Stars
 
+- [NayanTheSpaceGuy/ricordein](https://github.com/NayanTheSpaceGuy/ricordein) - NayanTheSpaceGuy&#39;s voxel game made with godot engine.
 - [NayanTheSpaceGuy/ricordein-minetest](https://github.com/NayanTheSpaceGuy/ricordein-minetest) - Ricordein-minetest - A minetest based game.
 - [godotengine/awesome-godot](https://github.com/godotengine/awesome-godot) - A curated list of free/libre plugins, scripts and add-ons for Godot
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative.
-- [joelshepherd/tabliss](https://github.com/joelshepherd/tabliss) - A beautiful, customisable New Tab page for Firefox, Chrome, and Edge.
 ### 📫 How to reach me :
 #### Social Media
   - Mastodon (Micro Blogs)  : <https://mstdn.party/@thespaceguy>
