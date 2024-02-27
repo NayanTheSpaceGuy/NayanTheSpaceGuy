@@ -22,11 +22,11 @@
 - [NayanTheSpaceGuy/boilerplates](https://github.com/NayanTheSpaceGuy/boilerplates) - NayanTheSpaceGuy&#39;s personal templates collection.
 ### ⭐ Recent Stars
 
+- [mxgmn/WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) - Bitmap &amp; tilemap generation from a single example with the help of ideas from quantum mechanics
 - [NayanTheSpaceGuy/ricordein](https://github.com/NayanTheSpaceGuy/ricordein) - NayanTheSpaceGuy&#39;s voxel game made with godot engine.
 - [NayanTheSpaceGuy/ricordein-minetest](https://github.com/NayanTheSpaceGuy/ricordein-minetest) - Ricordein-minetest - A minetest based game.
 - [godotengine/awesome-godot](https://github.com/godotengine/awesome-godot) - A curated list of free/libre plugins, scripts and add-ons for Godot
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
-- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative.
 ### 📫 How to reach me :
 #### Social Media
   - Mastodon (Micro Blogs)  : <https://mstdn.party/@thespaceguy>
