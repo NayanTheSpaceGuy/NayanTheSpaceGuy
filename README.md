@@ -22,11 +22,11 @@
 - [NayanTheSpaceGuy/boilerplates](https://github.com/NayanTheSpaceGuy/boilerplates) - NayanTheSpaceGuy&#39;s personal templates collection.
 ### ⭐ Recent Stars
 
+- [godot-rust/gdext](https://github.com/godot-rust/gdext) - Rust bindings for Godot 4
+- [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
+- [Zylann/godot_voxel](https://github.com/Zylann/godot_voxel) - Voxel module for Godot Engine
 - [mxgmn/WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) - Bitmap &amp; tilemap generation from a single example with the help of ideas from quantum mechanics
 - [NayanTheSpaceGuy/ricordein](https://github.com/NayanTheSpaceGuy/ricordein) - NayanTheSpaceGuy&#39;s voxel game made with godot engine.
-- [NayanTheSpaceGuy/ricordein-minetest](https://github.com/NayanTheSpaceGuy/ricordein-minetest) - Ricordein-minetest - A minetest based game.
-- [godotengine/awesome-godot](https://github.com/godotengine/awesome-godot) - A curated list of free/libre plugins, scripts and add-ons for Godot
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 ### 📫 How to reach me :
 #### Social Media
   - Mastodon (Micro Blogs)  : <https://mstdn.party/@thespaceguy>
