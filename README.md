@@ -22,7 +22,7 @@
 - [NayanTheSpaceGuy/boilerplates](https://github.com/NayanTheSpaceGuy/boilerplates) - NayanTheSpaceGuy&#39;s personal templates collection.
 ### ⭐ Recent Stars
 
-- [NayanTheSpaceGuy/ricordein-gden](https://github.com/NayanTheSpaceGuy/ricordein-gden) - Game Engine for Ricordein game. Includes Godot Engine and custom modules.
+- [NayanTheSpaceGuy/ricordein-gden](https://github.com/NayanTheSpaceGuy/ricordein-gden) - Game engine for ricordein. Includes Godot engine and custom modules.
 - [Zylann/voxelgame](https://github.com/Zylann/voxelgame) - Voxel world prototype made with Godot Engine
 - [bruce965/godot-voxel-lattice](https://github.com/bruce965/godot-voxel-lattice) - Tiny voxels with a limited number of faces in Godot 4.2
 - [ClarkThyLord/Voxel-Core](https://github.com/ClarkThyLord/Voxel-Core) - Voxel plugin for the Godot game engine!
