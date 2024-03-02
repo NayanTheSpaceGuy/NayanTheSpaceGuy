@@ -11,15 +11,15 @@
 - [NayanTheSpaceGuy/ricordein-issues](https://github.com/NayanTheSpaceGuy/ricordein-issues) - Issue tracker and discussions for Ricordein game.
 - [NayanTheSpaceGuy/dotfiles](https://github.com/NayanTheSpaceGuy/dotfiles) - NayanTheSpaceGuy&#39;s personal dotfiles and preferences.
 - [NayanTheSpaceGuy/neovimrc](https://github.com/NayanTheSpaceGuy/neovimrc) - NayanTheSpaceGuy&#39;s neovim config.
-- [NayanTheSpaceGuy/test](https://github.com/NayanTheSpaceGuy/test) - Test repo for understanding GitHub and GitHub Actions.
 - [NayanTheSpaceGuy/ricordein-website](https://github.com/NayanTheSpaceGuy/ricordein-website) - Official Ricordein website.
+- [NayanTheSpaceGuy/nayanthespaceguy.github.io](https://github.com/NayanTheSpaceGuy/nayanthespaceguy.github.io) - NayanTheSpaceGuy&#39;s personal website.
 ### 🌱 My latest projects
 
 - [NayanTheSpaceGuy/ricordein-issues](https://github.com/NayanTheSpaceGuy/ricordein-issues) - Issue tracker and discussions for Ricordein game.
 - [NayanTheSpaceGuy/neovimrc](https://github.com/NayanTheSpaceGuy/neovimrc) - NayanTheSpaceGuy&#39;s neovim config.
-- [NayanTheSpaceGuy/test](https://github.com/NayanTheSpaceGuy/test) - Test repo for understanding GitHub and GitHub Actions.
 - [NayanTheSpaceGuy/ricordein-website](https://github.com/NayanTheSpaceGuy/ricordein-website) - Official Ricordein website.
 - [NayanTheSpaceGuy/nayanthespaceguy.github.io](https://github.com/NayanTheSpaceGuy/nayanthespaceguy.github.io) - NayanTheSpaceGuy&#39;s personal website.
+- [NayanTheSpaceGuy/boilerplates](https://github.com/NayanTheSpaceGuy/boilerplates) - NayanTheSpaceGuy&#39;s personal templates collection.
 ### ⭐ Recent Stars
 
 - [id-Software/DOOM-3](https://github.com/id-Software/DOOM-3) - Doom 3 GPL source release
