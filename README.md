@@ -22,11 +22,11 @@
 - [NayanTheSpaceGuy/boilerplates](https://github.com/NayanTheSpaceGuy/boilerplates) - NayanTheSpaceGuy&#39;s personal templates collection.
 ### ⭐ Recent Stars
 
-- [NayanTheSpaceGuy/ricordein-gden](https://github.com/NayanTheSpaceGuy/ricordein-gden) - Game engine for ricordein. Includes Godot engine and custom modules.
-- [Zylann/voxelgame](https://github.com/Zylann/voxelgame) - Voxel world prototype made with Godot Engine
-- [bruce965/godot-voxel-lattice](https://github.com/bruce965/godot-voxel-lattice) - Tiny voxels with a limited number of faces in Godot 4.2
-- [ClarkThyLord/Voxel-Core](https://github.com/ClarkThyLord/Voxel-Core) - Voxel plugin for the Godot game engine!
-- [godot-rust/gdext](https://github.com/godot-rust/gdext) - Rust bindings for Godot 4
+- [id-Software/DOOM-3](https://github.com/id-Software/DOOM-3) - Doom 3 GPL source release
+- [id-Software/wolf3d](https://github.com/id-Software/wolf3d) - The original open source release of Wolfenstein 3D
+- [id-Software/Quake](https://github.com/id-Software/Quake) - Quake GPL Source Release
+- [id-Software/Quake-2](https://github.com/id-Software/Quake-2) - Quake 2 GPL Source Release
+- [id-Software/DOOM](https://github.com/id-Software/DOOM) - DOOM Open Source Release
 ### 📫 How to reach me :
 #### Social Media
   - Mastodon (Micro Blogs)  : <https://mstdn.party/@thespaceguy>
