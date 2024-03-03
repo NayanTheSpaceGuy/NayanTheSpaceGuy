@@ -23,7 +23,7 @@
 ### ⭐ Recent Stars
 
 - [NayanTheSpaceGuy/ricordein-issues](https://github.com/NayanTheSpaceGuy/ricordein-issues) - Issue tracker and discussions for Ricordein game.
-- [NayanTheSpaceGuy/rcgden](https://github.com/NayanTheSpaceGuy/rcgden) - 
+- [NayanTheSpaceGuy/rcgden](https://github.com/NayanTheSpaceGuy/rcgden) - Game engine for Ricordein game. Includes godot engine and custom modules.
 - [id-Software/DOOM-3](https://github.com/id-Software/DOOM-3) - Doom 3 GPL source release
 - [id-Software/wolf3d](https://github.com/id-Software/wolf3d) - The original open source release of Wolfenstein 3D
 - [id-Software/Quake](https://github.com/id-Software/Quake) - Quake GPL Source Release
