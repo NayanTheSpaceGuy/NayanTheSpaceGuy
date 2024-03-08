@@ -22,11 +22,11 @@
 - [NayanTheSpaceGuy/boilerplates](https://github.com/NayanTheSpaceGuy/boilerplates) - NayanTheSpaceGuy&#39;s personal templates collection.
 ### ⭐ Recent Stars
 
+- [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 - [godot-zig/godot-zig](https://github.com/godot-zig/godot-zig) - Zig bindings for Godot 4
 - [NayanTheSpaceGuy/ricordein-issues](https://github.com/NayanTheSpaceGuy/ricordein-issues) - Issue tracker and discussions for Ricordein game.
 - [id-Software/DOOM-3](https://github.com/id-Software/DOOM-3) - Doom 3 GPL source release
 - [id-Software/wolf3d](https://github.com/id-Software/wolf3d) - The original open source release of Wolfenstein 3D
-- [id-Software/Quake](https://github.com/id-Software/Quake) - Quake GPL Source Release
 ### 📫 How to reach me :
 #### Social Media
   - Mastodon (Micro Blogs)  : <https://mstdn.party/@thespaceguy>
