@@ -22,11 +22,11 @@
 - [NayanTheSpaceGuy/boilerplates](https://github.com/NayanTheSpaceGuy/boilerplates) - NayanTheSpaceGuy&#39;s personal templates collection.
 ### ⭐ Recent Stars
 
+- [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [mozilla-mobile/firefox-android](https://github.com/mozilla-mobile/firefox-android) - This repository hosts the Firefox for Android (Fenix), Focus for Android, and Mozilla Android Components projects. :warning: This repository will soon be migrated to Mozilla Central.
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 - [godot-zig/godot-zig](https://github.com/godot-zig/godot-zig) - Zig bindings for Godot 4
 - [NayanTheSpaceGuy/ricordein-issues](https://github.com/NayanTheSpaceGuy/ricordein-issues) - Issue tracker and discussions for Ricordein game.
-- [id-Software/DOOM-3](https://github.com/id-Software/DOOM-3) - Doom 3 GPL source release
 ### 📫 How to reach me :
 #### Social Media
   - Mastodon (Micro Blogs)  : <https://mstdn.party/@thespaceguy>
