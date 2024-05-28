@@ -8,18 +8,18 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [NayanTheSpaceGuy/fs-dirs-struct](https://github.com/NayanTheSpaceGuy/fs-dirs-struct) - My personal preferences over structure of directories and filesystems.
 - [NayanTheSpaceGuy/dotfiles-and-homelab](https://github.com/NayanTheSpaceGuy/dotfiles-and-homelab) - NayanTheSpaceGuy&#39;s personal dotfiles and preferences.
 - [NayanTheSpaceGuy/neovimrc](https://github.com/NayanTheSpaceGuy/neovimrc) - NayanTheSpaceGuy&#39;s neovim config.
 - [NayanTheSpaceGuy/nayanthespaceguy.github.io](https://github.com/NayanTheSpaceGuy/nayanthespaceguy.github.io) - NayanTheSpaceGuy&#39;s personal website.
 - [NayanTheSpaceGuy/ricordein-issues](https://github.com/NayanTheSpaceGuy/ricordein-issues) - Issue tracker and discussions for Ricordein game.
+- [NayanTheSpaceGuy/ricordein-website](https://github.com/NayanTheSpaceGuy/ricordein-website) - Official Ricordein website.
 ### 🌱 My latest projects
 
-- [NayanTheSpaceGuy/fs-dirs-struct](https://github.com/NayanTheSpaceGuy/fs-dirs-struct) - My personal preferences over structure of directories and filesystems.
 - [NayanTheSpaceGuy/ricordein-issues](https://github.com/NayanTheSpaceGuy/ricordein-issues) - Issue tracker and discussions for Ricordein game.
 - [NayanTheSpaceGuy/neovimrc](https://github.com/NayanTheSpaceGuy/neovimrc) - NayanTheSpaceGuy&#39;s neovim config.
 - [NayanTheSpaceGuy/ricordein-website](https://github.com/NayanTheSpaceGuy/ricordein-website) - Official Ricordein website.
 - [NayanTheSpaceGuy/nayanthespaceguy.github.io](https://github.com/NayanTheSpaceGuy/nayanthespaceguy.github.io) - NayanTheSpaceGuy&#39;s personal website.
+- [NayanTheSpaceGuy/boilerplates](https://github.com/NayanTheSpaceGuy/boilerplates) - NayanTheSpaceGuy&#39;s personal templates collection.
 ### ⭐ Recent Stars
 
 - [kyleterry/awesome-radio](https://github.com/kyleterry/awesome-radio) - Awesome radio stuff
