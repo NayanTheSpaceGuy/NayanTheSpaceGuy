@@ -8,9 +8,9 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [NayanTheSpaceGuy/nayanthespaceguy.github.io](https://github.com/NayanTheSpaceGuy/nayanthespaceguy.github.io) - NayanTheSpaceGuy&#39;s personal website.
 - [NayanTheSpaceGuy/dotfiles-and-homelab](https://github.com/NayanTheSpaceGuy/dotfiles-and-homelab) - NayanTheSpaceGuy&#39;s personal dotfiles, homelab configs and preferences.
 - [NayanTheSpaceGuy/neovimrc](https://github.com/NayanTheSpaceGuy/neovimrc) - NayanTheSpaceGuy&#39;s neovim config.
-- [NayanTheSpaceGuy/nayanthespaceguy.github.io](https://github.com/NayanTheSpaceGuy/nayanthespaceguy.github.io) - NayanTheSpaceGuy&#39;s personal website.
 - [NayanTheSpaceGuy/ricordein-issues](https://github.com/NayanTheSpaceGuy/ricordein-issues) - Issue tracker and discussions for Ricordein game.
 - [NayanTheSpaceGuy/ricordein-website](https://github.com/NayanTheSpaceGuy/ricordein-website) - Official Ricordein website.
 ### 🌱 My latest projects
