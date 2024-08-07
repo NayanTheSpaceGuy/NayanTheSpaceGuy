@@ -8,18 +8,18 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [NayanTheSpaceGuy/necronux](https://github.com/NayanTheSpaceGuy/necronux) - 
 - [NayanTheSpaceGuy/nayanpatil.space](https://github.com/NayanTheSpaceGuy/nayanpatil.space) - NayanTheSpaceGuy&#39;s personal website.
 - [NayanTheSpaceGuy/dotfiles-and-homelab](https://github.com/NayanTheSpaceGuy/dotfiles-and-homelab) - NayanTheSpaceGuy&#39;s personal dotfiles, homelab configs and preferences.
 - [NayanTheSpaceGuy/neovimrc](https://github.com/NayanTheSpaceGuy/neovimrc) - NayanTheSpaceGuy&#39;s neovim config.
 - [NayanTheSpaceGuy/ricordein-issues](https://github.com/NayanTheSpaceGuy/ricordein-issues) - Issue tracker and discussions for Ricordein game.
-- [NayanTheSpaceGuy/ricordein-website](https://github.com/NayanTheSpaceGuy/ricordein-website) - Official Ricordein website.
 ### 🌱 My latest projects
 
+- [NayanTheSpaceGuy/necronux](https://github.com/NayanTheSpaceGuy/necronux) - 
 - [NayanTheSpaceGuy/ricordein-issues](https://github.com/NayanTheSpaceGuy/ricordein-issues) - Issue tracker and discussions for Ricordein game.
 - [NayanTheSpaceGuy/neovimrc](https://github.com/NayanTheSpaceGuy/neovimrc) - NayanTheSpaceGuy&#39;s neovim config.
 - [NayanTheSpaceGuy/ricordein-website](https://github.com/NayanTheSpaceGuy/ricordein-website) - Official Ricordein website.
 - [NayanTheSpaceGuy/nayanpatil.space](https://github.com/NayanTheSpaceGuy/nayanpatil.space) - NayanTheSpaceGuy&#39;s personal website.
-- [NayanTheSpaceGuy/boilerplates](https://github.com/NayanTheSpaceGuy/boilerplates) - NayanTheSpaceGuy&#39;s personal templates collection.
 ### ⭐ Recent Stars
 
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
