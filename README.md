@@ -8,10 +8,10 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [NayanTheSpaceGuy/necronux](https://github.com/NayanTheSpaceGuy/necronux) - 
-- [NayanTheSpaceGuy/nayanpatil.space](https://github.com/NayanTheSpaceGuy/nayanpatil.space) - NayanTheSpaceGuy&#39;s personal website.
 - [NayanTheSpaceGuy/dotfiles-and-homelab](https://github.com/NayanTheSpaceGuy/dotfiles-and-homelab) - NayanTheSpaceGuy&#39;s personal dotfiles, homelab configs and preferences.
 - [NayanTheSpaceGuy/neovimrc](https://github.com/NayanTheSpaceGuy/neovimrc) - NayanTheSpaceGuy&#39;s neovim config.
+- [NayanTheSpaceGuy/necronux](https://github.com/NayanTheSpaceGuy/necronux) - 
+- [NayanTheSpaceGuy/nayanpatil.space](https://github.com/NayanTheSpaceGuy/nayanpatil.space) - NayanTheSpaceGuy&#39;s personal website.
 - [NayanTheSpaceGuy/ricordein-issues](https://github.com/NayanTheSpaceGuy/ricordein-issues) - Issue tracker and discussions for Ricordein game.
 ### 🌱 My latest projects
 
