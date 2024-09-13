@@ -8,8 +8,8 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [NayanTheSpaceGuy/dotfiles-and-homelab](https://github.com/NayanTheSpaceGuy/dotfiles-and-homelab) - NayanTheSpaceGuy&#39;s personal dotfiles, homelab configs and preferences.
 - [NayanTheSpaceGuy/necronux](https://github.com/NayanTheSpaceGuy/necronux) - NayanTheSpaceGuy&#39;s CLI orchestrator for seamless automation of infrastructure setup, system tweaks, and app installations.
+- [NayanTheSpaceGuy/dotfiles-and-homelab](https://github.com/NayanTheSpaceGuy/dotfiles-and-homelab) - NayanTheSpaceGuy&#39;s personal dotfiles, homelab configs and preferences.
 - [NayanTheSpaceGuy/neovimrc](https://github.com/NayanTheSpaceGuy/neovimrc) - NayanTheSpaceGuy&#39;s neovim config.
 - [NayanTheSpaceGuy/nayanpatil.space](https://github.com/NayanTheSpaceGuy/nayanpatil.space) - NayanTheSpaceGuy&#39;s personal website.
 - [NayanTheSpaceGuy/ricordein-issues](https://github.com/NayanTheSpaceGuy/ricordein-issues) - Issue tracker and discussions for Ricordein game.
