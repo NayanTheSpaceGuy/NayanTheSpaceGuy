@@ -39,4 +39,4 @@
   - Clash of Clans   : <https://link.clashofclans.com/en/?action%3DOpenPlayerProfile&tag%3DPRVUUYPCC>
 #### Professional / Business Related
   - Matrix (Preferred)  : <https://matrix.to/#/@thespaceguy:matrix.org>
-  - Email   : nayantsg@protonmail.com
+  - Email   : nayantsg@proton.me
