@@ -22,11 +22,11 @@
 - [NayanTheSpaceGuy/nayanpatil.space](https://github.com/NayanTheSpaceGuy/nayanpatil.space) - NayanTheSpaceGuy&#39;s personal website.
 ### ⭐ Recent Stars
 
+- [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
 - [krittikaiitb/tutorials](https://github.com/krittikaiitb/tutorials) - Set of Jupyter Notebooks, along with datafiles, to get started with Scientific Computing in Astronomy
 - [MESAHub/mesa](https://github.com/MESAHub/mesa) - Modules for Experiments in Stellar Astrophysics
 - [rahulkashyap-phy/tov](https://github.com/rahulkashyap-phy/tov) - 
 - [NayanTheSpaceGuy/necronux](https://github.com/NayanTheSpaceGuy/necronux) - NayanTheSpaceGuy&#39;s CLI orchestrator for seamless automation of infrastructure setup, system tweaks, and app installations.
-- [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
 ### 📫 How to reach me :
 #### Social Media
   - Mastodon (Micro Blogs)  : <https://mstdn.party/@thespaceguy>
