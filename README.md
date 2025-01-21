@@ -22,11 +22,11 @@
 - [NayanTheSpaceGuy/nayanpatil.space](https://github.com/NayanTheSpaceGuy/nayanpatil.space) - NayanTheSpaceGuy&#39;s personal website.
 ### ⭐ Recent Stars
 
+- [clap-rs/clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust
 - [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
 - [krittikaiitb/tutorials](https://github.com/krittikaiitb/tutorials) - Set of Jupyter Notebooks, along with datafiles, to get started with Scientific Computing in Astronomy
 - [MESAHub/mesa](https://github.com/MESAHub/mesa) - Modules for Experiments in Stellar Astrophysics
-- [rahulkashyap-phy/tov](https://github.com/rahulkashyap-phy/tov) - 
 ### 📫 How to reach me :
 #### Social Media
   - Mastodon (Micro Blogs)  : <https://mstdn.party/@thespaceguy>
