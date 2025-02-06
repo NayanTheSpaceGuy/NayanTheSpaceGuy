@@ -8,9 +8,9 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [NayanTheSpaceGuy/necronux](https://github.com/NayanTheSpaceGuy/necronux) - NayanTheSpaceGuy&#39;s cross-platform orchestrator for seamless automation of infrastructure setup, system tweaks, package manager setups and app installations.
 - [NayanTheSpaceGuy/dotlab](https://github.com/NayanTheSpaceGuy/dotlab) - NayanTheSpaceGuy&#39;s personal dotfiles, homelab configs, preferences and boilerplates.
 - [NayanTheSpaceGuy/neovimrc](https://github.com/NayanTheSpaceGuy/neovimrc) - NayanTheSpaceGuy&#39;s neovim config.
+- [NayanTheSpaceGuy/necronux](https://github.com/NayanTheSpaceGuy/necronux) - NayanTheSpaceGuy&#39;s cross-platform orchestrator for seamless automation of infrastructure setup, system tweaks, package manager setups and app installations.
 - [NayanTheSpaceGuy/nayanpatil.space](https://github.com/NayanTheSpaceGuy/nayanpatil.space) - NayanTheSpaceGuy&#39;s personal website.
 - [NayanTheSpaceGuy/ricordein-issues](https://github.com/NayanTheSpaceGuy/ricordein-issues) - Issue tracker and discussions for Ricordein game.
 ### 🌱 My latest projects
