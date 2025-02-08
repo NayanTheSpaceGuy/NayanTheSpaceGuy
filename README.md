@@ -10,12 +10,12 @@
 
 - [NayanTheSpaceGuy/dotlab](https://github.com/NayanTheSpaceGuy/dotlab) - NayanTheSpaceGuy&#39;s personal dotfiles, homelab configs, preferences and boilerplates.
 - [NayanTheSpaceGuy/neovimrc](https://github.com/NayanTheSpaceGuy/neovimrc) - NayanTheSpaceGuy&#39;s neovim config.
-- [NayanTheSpaceGuy/necronux](https://github.com/NayanTheSpaceGuy/necronux) - NayanTheSpaceGuy&#39;s cross-platform orchestrator for seamless automation of infrastructure setup, system tweaks, package manager setups and app installations.
+- [NayanTheSpaceGuy/necronux](https://github.com/NayanTheSpaceGuy/necronux) - A cross-platform robust meta-orchestrator for automation tools, scripts, and configurations through an extensible architecture.
 - [NayanTheSpaceGuy/nayanpatil.space](https://github.com/NayanTheSpaceGuy/nayanpatil.space) - NayanTheSpaceGuy&#39;s personal website.
 - [NayanTheSpaceGuy/ricordein-issues](https://github.com/NayanTheSpaceGuy/ricordein-issues) - Issue tracker and discussions for Ricordein game.
 ### 🌱 My latest projects
 
-- [NayanTheSpaceGuy/necronux](https://github.com/NayanTheSpaceGuy/necronux) - NayanTheSpaceGuy&#39;s cross-platform orchestrator for seamless automation of infrastructure setup, system tweaks, package manager setups and app installations.
+- [NayanTheSpaceGuy/necronux](https://github.com/NayanTheSpaceGuy/necronux) - A cross-platform robust meta-orchestrator for automation tools, scripts, and configurations through an extensible architecture.
 - [NayanTheSpaceGuy/ricordein-issues](https://github.com/NayanTheSpaceGuy/ricordein-issues) - Issue tracker and discussions for Ricordein game.
 - [NayanTheSpaceGuy/neovimrc](https://github.com/NayanTheSpaceGuy/neovimrc) - NayanTheSpaceGuy&#39;s neovim config.
 - [NayanTheSpaceGuy/ricordein-website](https://github.com/NayanTheSpaceGuy/ricordein-website) - Official Ricordein website.
@@ -26,7 +26,7 @@
 - [clap-rs/clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust
 - [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
-- [NayanTheSpaceGuy/necronux](https://github.com/NayanTheSpaceGuy/necronux) - NayanTheSpaceGuy&#39;s cross-platform orchestrator for seamless automation of infrastructure setup, system tweaks, package manager setups and app installations.
+- [NayanTheSpaceGuy/necronux](https://github.com/NayanTheSpaceGuy/necronux) - A cross-platform robust meta-orchestrator for automation tools, scripts, and configurations through an extensible architecture.
 ### 📫 How to reach me :
 #### Social Media
   - Mastodon (Micro Blogs)  : <https://mstdn.party/@thespaceguy>
