@@ -22,11 +22,11 @@
 - [NayanTheSpaceGuy/nayanpatil.space](https://github.com/NayanTheSpaceGuy/nayanpatil.space) - NayanTheSpaceGuy&#39;s personal website.
 ### ⭐ Recent Stars
 
+- [fzyzcjy/flutter_rust_bridge](https://github.com/fzyzcjy/flutter_rust_bridge) - Flutter/Dart &lt;-&gt; Rust binding generator, feature-rich, but seamless and simple.
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [clap-rs/clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust
 - [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
-- [NayanTheSpaceGuy/necronux](https://github.com/NayanTheSpaceGuy/necronux) - A cross-platform robust meta-orchestrator for automation tools, scripts, and configurations through an extensible architecture.
 ### 📫 How to reach me :
 #### Social Media
   - Mastodon (Micro Blogs)  : <https://mstdn.party/@thespaceguy>
