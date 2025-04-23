@@ -8,17 +8,17 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [NayanTheSpaceGuy/necronux](https://github.com/NayanTheSpaceGuy/necronux) - A cross-platform robust meta-orchestrator for automation tools, scripts, and configurations through an extensible architecture.
+- [necronux/necronux](https://github.com/necronux/necronux) - A cross-platform robust meta-orchestrator for automation tools, scripts, and configurations through an extensible architecture.
 - [NayanTheSpaceGuy/dotlab](https://github.com/NayanTheSpaceGuy/dotlab) - NayanTheSpaceGuy&#39;s personal dotfiles, homelab configs, preferences and boilerplates.
 - [NayanTheSpaceGuy/neovimrc](https://github.com/NayanTheSpaceGuy/neovimrc) - NayanTheSpaceGuy&#39;s neovim config.
 - [NayanTheSpaceGuy/nayanpatil.space](https://github.com/NayanTheSpaceGuy/nayanpatil.space) - NayanTheSpaceGuy&#39;s personal website.
 ### 🌱 My latest projects
 
-- [NayanTheSpaceGuy/necronux](https://github.com/NayanTheSpaceGuy/necronux) - A cross-platform robust meta-orchestrator for automation tools, scripts, and configurations through an extensible architecture.
 - [NayanTheSpaceGuy/ricordein-issues](https://github.com/NayanTheSpaceGuy/ricordein-issues) - Issue tracker and discussions for Ricordein game.
 - [NayanTheSpaceGuy/neovimrc](https://github.com/NayanTheSpaceGuy/neovimrc) - NayanTheSpaceGuy&#39;s neovim config.
 - [NayanTheSpaceGuy/ricordein-website](https://github.com/NayanTheSpaceGuy/ricordein-website) - Official Ricordein website.
 - [NayanTheSpaceGuy/nayanpatil.space](https://github.com/NayanTheSpaceGuy/nayanpatil.space) - NayanTheSpaceGuy&#39;s personal website.
+- [NayanTheSpaceGuy/dotlab](https://github.com/NayanTheSpaceGuy/dotlab) - NayanTheSpaceGuy&#39;s personal dotfiles, homelab configs, preferences and boilerplates.
 ### ⭐ Recent Stars
 
 - [fzyzcjy/flutter_rust_bridge](https://github.com/fzyzcjy/flutter_rust_bridge) - Flutter/Dart &lt;-&gt; Rust binding generator, feature-rich, but seamless and simple.
