@@ -9,6 +9,7 @@
 ### 👷 Check out what I'm currently working on
 
 - [necronux/necronux](https://github.com/necronux/necronux) - A robust meta-orchestrator for elegantly managing automation tools, scripts, and configurations through an extensible architecture conjuring peace of mind.
+- [necronux/.github](https://github.com/necronux/.github) - Default community health files for repos in @necronux
 - [NayanTheSpaceGuy/dotlab](https://github.com/NayanTheSpaceGuy/dotlab) - NayanTheSpaceGuy&#39;s personal dotfiles, homelab configs, preferences and boilerplates.
 - [NayanTheSpaceGuy/neovimrc](https://github.com/NayanTheSpaceGuy/neovimrc) - NayanTheSpaceGuy&#39;s neovim config.
 - [NayanTheSpaceGuy/nayanpatil.space](https://github.com/NayanTheSpaceGuy/nayanpatil.space) - NayanTheSpaceGuy&#39;s personal website.
