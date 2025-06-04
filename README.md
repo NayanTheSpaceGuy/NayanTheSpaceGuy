@@ -8,11 +8,11 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [necronux/necronux](https://github.com/necronux/necronux) - A robust meta-orchestrator for elegantly managing automation tools, scripts, and configurations through an extensible architecture cultivating peace of mind.
+- [NayanTheSpaceGuy/neovimrc](https://github.com/NayanTheSpaceGuy/neovimrc) - NayanTheSpaceGuy&#39;s neovim config.
+- [NayanTheSpaceGuy/dotlab](https://github.com/NayanTheSpaceGuy/dotlab) - NayanTheSpaceGuy&#39;s personal dotfiles, homelab configs, preferences and boilerplates.
 - [necronux/necronux.internal.pkl](https://github.com/necronux/necronux.internal.pkl) - Shared Pkl modules for internal use in repos in @necronux
 - [necronux/necronux.stdschema](https://github.com/necronux/necronux.stdschema) - The Necronux StdSchema.
-- [necronux/.github](https://github.com/necronux/.github) - Default community health files for repos in @necronux
-- [NayanTheSpaceGuy/dotlab](https://github.com/NayanTheSpaceGuy/dotlab) - NayanTheSpaceGuy&#39;s personal dotfiles, homelab configs, preferences and boilerplates.
+- [necronux/necronux](https://github.com/necronux/necronux) - A robust meta-orchestrator for elegantly managing automation tools, scripts, and configurations through an extensible architecture cultivating peace of mind.
 ### 🌱 My latest projects
 
 - [NayanTheSpaceGuy/ricordein-issues](https://github.com/NayanTheSpaceGuy/ricordein-issues) - Issue tracker and discussions for Ricordein game.
