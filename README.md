@@ -8,10 +8,10 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [necronux/necronux.internal.pkl](https://github.com/necronux/necronux.internal.pkl) - Pkl modules intended for shared internal use across repos in @necronux
+- [necronux/necronux.stdschema](https://github.com/necronux/necronux.stdschema) - The Necronux StdSchema.
 - [NayanTheSpaceGuy/neovimrc](https://github.com/NayanTheSpaceGuy/neovimrc) - NayanTheSpaceGuy&#39;s neovim config.
 - [NayanTheSpaceGuy/dotlab](https://github.com/NayanTheSpaceGuy/dotlab) - NayanTheSpaceGuy&#39;s personal dotfiles, homelab configs, preferences and boilerplates.
-- [necronux/necronux.internal.pkl](https://github.com/necronux/necronux.internal.pkl) - Shared Pkl modules for internal use in repos in @necronux
-- [necronux/necronux.stdschema](https://github.com/necronux/necronux.stdschema) - The Necronux StdSchema.
 - [necronux/necronux](https://github.com/necronux/necronux) - A robust meta-orchestrator for elegantly managing automation tools, scripts, and configurations through an extensible architecture cultivating peace of mind.
 ### 🌱 My latest projects
 
