@@ -8,7 +8,7 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [necronux/necronux](https://github.com/necronux/necronux) - A robust meta-orchestrator for elegantly managing automation tools, scripts, and configurations through an extensible architecture cultivating peace of mind.
+- [necronux/necronux](https://github.com/necronux/necronux) - An elegantly reliable meta-orchestrator for composable, portable, robust, and worry-free system automation.
 - [necronux/.github](https://github.com/necronux/.github) - Default community health files for repos in @necronux
 - [necronux/necronux.stdschema](https://github.com/necronux/necronux.stdschema) - The Necronux standard schema.
 - [necronux/necronux.internal.pkl](https://github.com/necronux/necronux.internal.pkl) - Pkl modules intended for shared internal use across repos in @necronux
